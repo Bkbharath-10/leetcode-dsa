@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Bkbharath-10/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/Bkbharath-10/leetcode-dsa/tree/master/2409-count-days-spent-together) |
 ## String
 |  |
@@ -14,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Bkbharath-10/leetcode-dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1254-number-of-closed-islands](https://github.com/Bkbharath-10/leetcode-dsa/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bkbharath-10/leetcode-dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Bkbharath-10/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
